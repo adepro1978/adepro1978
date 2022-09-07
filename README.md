@@ -2,7 +2,7 @@
 - 👀 I’m interested in software egineering.
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me : my gmail is serikitalakawa@gmail.com
+- 📫 How to reach me : https://github.com/adepro1978/adepro1978.git
 
 <!---
 adepro1978/adepro1978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
